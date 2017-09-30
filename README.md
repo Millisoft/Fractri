@@ -1,2 +1,2 @@
 # Fractri
-a simple converter from fractions to trigesimal
+a simple c++ converter from fractions to trigesimal 
